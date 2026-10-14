@@ -73,8 +73,8 @@ int main() {
             case 6: 
                 cout << "\n--- Hasil Wawancara Narasumber 6 ---" << endl;
                 cout << "Nama        : " << endl;
-                cout << "Kategori    : Improvement" << endl;
-                cout << "Bidang      : Basket" << endl;
+                cout << "Kategori    : " << endl;
+                cout << "Bidang      : " << endl;
                 cout << "Insight     : " << endl;
                 cout << "             " << endl;
                 break;
